@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "RANDOMSMP1234567890.aternos.me:47631",
+    "ip": "RANDOMSMP1234567890.aternos.me",
     "port": 47631,
     "version": "1.21.1"
   },
